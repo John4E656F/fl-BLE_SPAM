@@ -26,6 +26,7 @@ void fastpair_make_packet(uint8_t* out_size, uint8_t** out_packet, const BleSpam
             0x92BBBD, // Pixel Buds
 
             // Custom debug popups
+            0x92ADC9, //Ton Upgrade Netflix
             //0xAA1FE1, // ClownMaster
             //0xAA187F, // VBucks
             //0xF38C02, // Boykisser
